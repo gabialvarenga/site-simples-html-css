@@ -1,1 +1,2 @@
 # site-simples-html-css
+Nesse repositório, você encontrará um site simples desenvolvido com HTML e CSS, criado como parte do meu aprendizado em programação front-end. O principal objetivo é praticar e consolidar os conhecimentos adquiridos nessas tecnologias, explorando conceitos como estruturação de páginas, estilização de elementos e layout responsivo. O site pode conter diferentes seções, como uma página inicial e pode incluir elementos como imagens e textos formatados.
